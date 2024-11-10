@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:32:26	235/235	---M--	301	error ('Moved%20Permanently')	text/html	date:Sun,%2010%20Nov%202024%2000:32:26%20GMT	http://app.addgapp.net/add	/storage/emulated/0/HTTrack/Websites/akhirr/app.addgapp.net/add.0.delayed	(from )
+01:32:27	315/315	---M--	404	error ('Not%20Found')	text/html	date:Sun,%2010%20Nov%202024%2000:32:27%20GMT	http://app.addgapp.net/robots.txt		(from )
+01:32:28	337/337	---MC-	302	error ('Found')	text/html	date:Sun,%2010%20Nov%202024%2000:32:28%20GMT	http://app.addgapp.net/add/	/storage/emulated/0/HTTrack/Websites/akhirr/app.addgapp.net/add/index.html	(from )
